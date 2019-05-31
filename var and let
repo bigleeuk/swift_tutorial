@@ -1,4 +1,0 @@
-## About var let const 
-var and let : declaration function
-var는 function-scoped이고, let, const는 block-scoped입니다.
-
